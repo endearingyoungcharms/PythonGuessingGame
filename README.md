@@ -1,2 +1,2 @@
 # PythonGuessingGame
- A guessing game, written in Python in an hour
+ A simple guessing game, written in Python
