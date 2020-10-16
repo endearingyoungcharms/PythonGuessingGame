@@ -35,3 +35,4 @@ def check(number,humanguess,lives):
     
 if __name__ == '__main__':
     ask()
+    
